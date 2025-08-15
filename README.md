@@ -29,7 +29,7 @@ titanic-survival-prediction/
 ## 🚀 Результат
 - Лучшая модель: **GradientBoosting + RandomForest (Voting)**
 - Public LB: **0.78708**
-`
+
 
 ## 🛠 Установка
 ```bash
