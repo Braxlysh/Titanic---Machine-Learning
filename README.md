@@ -14,13 +14,16 @@
 - Формирование сабмита для Kaggle
 
 ## Структура
+```
 titanic-survival-prediction/
-├── data
+├── data/
+│   ├── train.csv
 │   └── test.csv
-│   └── train.csv
 ├── kaggleTitanic.ipynb
 ├── requirements.txt
 └── README.md
+```
+
 
 
 ## 🚀 Результат
